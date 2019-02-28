@@ -15,7 +15,7 @@ Inicializar o MySQL, (instalar XAMPP ou similar);
 Abrir o projeto codechallenge no Spring Tools Suite e inicializa-lo; (Run As -> Sprint Boot App);
 
 Instalar o angular cli (npm install -g @angular/cli);
-Inicializar o angular no projeto codechallenge-site (ng server --open)
+Inicializar o angular no projeto codechallenge-site (ng serve --open)
 
 Abrir o site no localhost:4200
 
